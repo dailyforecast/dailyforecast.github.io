@@ -1,0 +1,18 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="design-iconfont">
+  <g clip-path="url(#64ksjjz2s__clip0_1_390)">
+    <rect x="10.4714" y="12.0217" width="12.5217" height="2.08696" rx="1.04348" transform="rotate(-45 10.4714 12.0217)" fill="#fff"/>
+    <rect width="12.5217" height="2.08696" rx="1.04348" transform="scale(-1 1) rotate(-45 7.76252319 22.30424972)" fill="#fff"/>
+    <rect x="11.9642" y="10.4712" width="12.5217" height="2.08696" rx="1.04348" transform="rotate(45 11.9642 10.4712)" fill="#fff"/>
+    <rect width="12.5217" height="2.08696" rx="1.04348" transform="scale(-1 1) rotate(45 -18.6511543 -9.27526059)" fill="#fff"/>
+    <rect x="10.4722" y="12.0228" width="12.5217" height="2.08696" rx="1.04348" transform="rotate(-45 10.4722 12.0228)" fill="#fff"/>
+    <rect width="12.5217" height="2.08696" rx="1.04348" transform="scale(-1 1) rotate(-45 7.76335959 22.30530327)" fill="#fff"/>
+    <rect x="11.9648" y="10.4722" width="12.5217" height="2.08696" rx="1.04348" transform="rotate(45 11.9648 10.4722)" fill="#fff"/>
+    <rect width="12.5217" height="2.08696" rx="1.04348" transform="scale(-1 1) rotate(45 -18.65295284 -9.27550556)" fill="#fff"/>
+    <path d="M3.99988 4.00085L19.9999 20.0009M19.9999 4.00085L3.99988 20.0009" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <clipPath id="64ksjjz2s__clip0_1_390">
+      <path fill="#fff" d="M0 0H24V24H0z"/>
+    </clipPath>
+  </defs>
+</svg>
