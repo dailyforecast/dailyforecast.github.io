@@ -44,11 +44,11 @@ const contentBg = ['@/assets/img/home_bg_1.webp', '@/assets/img/home_bg_2.webp']
 .content-main {
   display: flex;
   justify-content: space-between;
-  max-width: 1200px;
+  width: 1200px;
   margin: 0 auto;
   box-sizing: border-box;
   .content-main-left {
-    width: 50%;
+    width: 55%;
     color: #ffffff;
     font-weight: 500;
     display: flex;
